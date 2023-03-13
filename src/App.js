@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div className="">
-      <h1>Compare Cost of Living</h1>
+    <div>
+      <h1 className="text-3xl">Compare Cost of Living</h1>
     </div>
   );
 }
